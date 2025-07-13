@@ -36,12 +36,13 @@
 
 ---
 
-### 🎯 2025 Goals
+### 🎓 Certifications
 
-- Deepen expertise in Power BI and DAX  
-- Practice complex SQL Server queries for reporting  
-- Build more real-time dashboards and mini projects  
-- Land a full-time **Data Analyst** role 👨‍💻
+- ✅ Prompt Engineering for ChatGPT
+- ✅ SQL Bootcamp  
+- ✅ Advanced Excel  
+- ✅ Prompt Engineering for ChatGPT
+- ✅ Power BI
 
 ---
 
