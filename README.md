@@ -3,7 +3,7 @@
 <p align="center">
   📊 Aspiring Data Analyst | Ex-Research Analyst at CapeStart<br/>
   🧠 SQL Server | Power BI | Excel | DAX Enthusiast<br/>
-  📍 Based in India | 💡 Turning raw data into smart decisions
+  💡 Turning raw data into smart decisions through visualization.
 </p>
 
 ---
