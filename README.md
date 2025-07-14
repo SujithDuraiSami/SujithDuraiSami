@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Sujith D</h1>
 
 <p align="center">
-  📊 Aspiring Data Analyst | Ex-Research Analyst at CapeStart<br/>
+  📊 Aspiring Data Analyst | Ex-Crisis Analyst at CapeStart<br/>
   🧠 SQL Server | Power BI | Excel | DAX Enthusiast<br/>
   💡 Turning raw data into smart decisions through visualization.
 </p>
