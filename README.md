@@ -34,6 +34,12 @@
 - Wrote analytical queries to extract business insights  
 - Focused on structured reporting and clean schema design
 
+#### IND vs ENG - Power BI Cricket Fielding Analysis 🏏
+- Analyzed the fielding performance of Indian players against England in ODI matches.  
+- Data was web scraped from ESPNcricinfo using Power Query.  
+- Insights include fielder vs keeper catches, strike zones, and player span analysis.  
+- Built using Power BI Desktop for interactive data visualization.
+
 ---
 
 ### 🎓 Certifications
